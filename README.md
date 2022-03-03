@@ -132,8 +132,15 @@ https://console.192.168.178.82.nip.io:443
    ![image](figure/Makefile-properties.png)
 
 * 위의 9번 설치시, 참고할 스크린샷
+   * makefile 설치 직후 화면
+   ![image](figure/404error.png)
+   
+   * makefile 설치 이외 404 error를 없애기 위한 설정
+   
    ![image](figure/9.11-config-hyperauth.png)
+   
    ![image](figure/9.2-config-hyperauth.png)
+
 
 
 ## 동작 확인 
