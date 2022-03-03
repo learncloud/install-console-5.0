@@ -11,7 +11,7 @@ make init.apply
 sleep 10
 make traefik.build 
 make traefik.apply 
-sleep 30
+sleep 10
 make tls.build 
 make tls.apply
 make jwt.build
