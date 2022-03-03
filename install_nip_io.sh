@@ -14,9 +14,12 @@ make traefik.apply
 sleep 10
 make tls.build 
 make tls.apply
+sleep 1
 make jwt.build
 make jwt.apply
+sleep 1
 make console.build 
 make console.apply 
+sleep 1
 make ingressroute.build
 make ingressroute.apply 
