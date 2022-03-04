@@ -135,7 +135,7 @@ https://console.192.168.178.82.nip.io:443
    * makefile 설치 직후 화면
    ![image](figure/404error.png)
    
-   * makefile 설치 이외 404 error를 없애기 위한 설정
+   * `[비고]` makefile 설치 이외 404 error를 없애기 위한 설정
    
    ![image](figure/1-404error2.png)
    
